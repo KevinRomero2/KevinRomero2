@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Kerisk/30-nites-of-code)  
+  ![@Kerisk #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Kerisk)
 <!--
 **KevinRomero2/KevinRomero2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
