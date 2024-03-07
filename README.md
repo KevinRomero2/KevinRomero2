@@ -18,6 +18,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## #30NitesOfCode:
+Un reto de 30 dias en los cuales practica y avanzo en mi aprendizaje de programacion, un paso a la vez aqui puedes ver mi avance en el reto.
   [Check out my progress!](https://www.codedex.io/@Kerisk/30-nites-of-code)  
   ![@Kerisk #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Kerisk)
 <!--
