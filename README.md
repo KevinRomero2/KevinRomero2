@@ -29,9 +29,18 @@ Un Joven mexicano apasionado por la tecnología, la biología y el mundo de la i
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## #30NitesOfCode:
+
 Un reto de 30 dias en los cuales practica y avanzo en mi aprendizaje de programacion, un paso a la vez aqui puedes ver mi avance en el reto.
-  [Check out my progress!](https://www.codedex.io/@Kerisk/30-nites-of-code)  
-  ![@Kerisk #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Kerisk)
+<div align="center">
+<p style="text-align: center;">
+  <a href="https://www.codedex.io/@Kerisk/30-nites-of-code">Check out my progress!</a>
+</p>
+
+<p style="text-align: center;">
+  <img src="https://www.codedex.io/api/petStatus?user=Kerisk" alt="@Kerisk #30NitesOfCode">
+</p>
+</div>
+
 <!--
 **KevinRomero2/KevinRomero2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
