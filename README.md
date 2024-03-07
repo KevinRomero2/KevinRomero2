@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align="center">
 <h1 align="center">¡Hola! 👋 Soy Kevin Romero un Joven mexicano apasionado por la tecnología, la biología y el mundo de la informática.</h1>
 </div>
