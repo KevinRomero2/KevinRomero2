@@ -1,6 +1,12 @@
 ### Hi there 👋
+<div align="center">
+<h1 align="center">¡Hola! 👋 Soy Kevin Romero un Joven mexicano apasionado por la tecnología, la biología y el mundo de la informática.</h1>
+</div>
+
+<img src="https://imgur.com/a/NTfyRMr">
+
 # 💫 About Me:
-¡Hola! 👋 Soy un joven mexicano apasionado por la tecnología, la biología y el mundo de la informática.<br><br>📱 Aprendiendo desarrollo de aplicaciones moviles<br>👨‍💻 Me gusta Programar en Kotlin <br>☁ Estoy aprendiendo sobre la nube (Google Cloud)<br>📹Tambien me gusta editar videos en mi tiempo libres<br>🖼Diseño de aplicaciones Moviles en Figma<br>🐹Mi animal Favorito son los cuyos<br><br>Bievenido a mi perfil<br><br><br>
+<br><br>📱 Aprendiendo desarrollo de aplicaciones moviles<br>👨‍💻 Me gusta Programar en Kotlin <br>☁ Estoy aprendiendo sobre la nube (Google Cloud)<br>📹Tambien me gusta editar videos en mi tiempo libres<br>🖼Diseño de aplicaciones Moviles en Figma<br>🐹Mi animal Favorito son los cuyos<br><br>Bievenido a mi perfil<br><br><br>
 
 
 ## 🌐 Socials:
