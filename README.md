@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-¡Hola! 👋 Soy un joven mexicano apasionado por la tecnología, la biología y el mundo de la informática.<br><br>📱 Aprendiendo desarrollo de aplicaciones moviles<br>👨‍💻 Me gusta Programar en Kotlin <br>☁ Estoy aprendiendo sobre la nube (Google Cloud)<br>📹Tambien me gusta editar videos en mi tiempo libres<br>🐹Mi animal Favorito son los cuyos<br><br>Bievenido a mi perfil<br><br><br>
+¡Hola! 👋 Soy un joven mexicano apasionado por la tecnología, la biología y el mundo de la informática.<br><br>📱 Aprendiendo desarrollo de aplicaciones moviles<br>👨‍💻 Me gusta Programar en Kotlin <br>☁ Estoy aprendiendo sobre la nube (Google Cloud)<br>📹Tambien me gusta editar videos en mi tiempo libres<br>🖼Diseño de aplicaciones Moviles en Figma<br>🐹Mi animal Favorito son los cuyos<br><br>Bievenido a mi perfil<br><br><br>
 
 
 ## 🌐 Socials:
