@@ -1,18 +1,25 @@
 <div align="center">
-<h3 align="center">¡Hola! muy buenas 👋 Soy Kevin Romero .</h1>
+<h3 align="center">Howdy! 👋 I'm Kevin Romero .</h1>
 <img align="center" src="https://i.imgur.com/riDIliG.png">
 </div>
 
 
 # 💫 About Me:
-Un Joven mexicano apasionado por la tecnología, la biología y el mundo de la informática<br>
-- 📱 Aprendiendo desarrollo de aplicaciones moviles<br>
-- 👨‍💻 Me gusta Programar en Kotlin <br>
-- ☁ Estoy aprendiendo sobre la nube (Google Cloud)<br>
-- 📹Tambien me gusta editar videos en mi tiempo libres<br>
-- 🖼Diseño de aplicaciones Moviles en Figma<br>
-- 🐹Mi animal favorito es el cuyo <br>
-
+```kt
+fun AboutMe() {
+    val name: String = "Kevin Romero" 
+    val description: String = """
+        A Young Mexican passionate about technology, biology and the world of computer science.
+        
+        📱 Learning mobile application development.
+        👨‍💻 I like programming in Kotlin
+        ☁ I'm learning about the cloud (Google Cloud)
+        📹 I also like to edit videos in my free time.
+        🖼 Designing mobile applications in Figma.
+        🐹 My favorite animal is the guinea pig.
+    """.trimIndent()
+}
+```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kevinaxxer/) 
