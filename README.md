@@ -1,6 +1,6 @@
 <div align="center">
 <h3 align="center">Howdy! 👋 I'm Kevin Romero .</h1>
-<img align="center" src="https://i.imgur.com/riDIliG.png">
+
 </div>
 
 
